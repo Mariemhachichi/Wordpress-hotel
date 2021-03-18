@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Travern\n"
+"POT-Creation-Date: 2018-10-22 17:13+0530\n"
+"PO-Revision-Date: 2018-10-22 17:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: Flythemes Team <support@flythemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+
+#: content-page.php:19
+#: content-single.php:29
+#: content.php:37
+#: image.php:65
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:24
+#: content-single.php:41
+#: image.php:33
+#: image.php:70
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:34
+#: content.php:14
+msgid ", "
+msgstr ""
+
+#: content-single.php:35
+msgid " | Tags: "
+msgstr ""
+
+#: content.php:33
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:15
+msgid "Y"
+msgstr ""
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:45
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:46
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:31
+msgid "Select color from here."
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Select background color for header."
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "Select background color for topbar."
+msgstr ""
+
+#: inc/customizer.php:71
+msgid "Select background color for footer."
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:84
+msgid ""
+"Recommended image size (1420x567). Slider will work only when you select the "
+"static front page."
+msgstr ""
+
+#: inc/customizer.php:96
+msgid "Select page for slide one:"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Select page for slide two:"
+msgstr ""
+
+#: inc/customizer.php:120
+msgid "Select page for slide three:"
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "Check this to hide slider."
+msgstr ""
+
+#: inc/customizer.php:144
+msgid "Topbar"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Add your contact info here."
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "Add address here."
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "Add phone number here."
+msgstr ""
+
+#: inc/template-tags.php:34
+#, php-format
+msgid "<span class=\"screen-reader-text\"></span> %s"
+msgstr ""

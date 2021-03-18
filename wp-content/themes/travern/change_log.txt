@@ -1,0 +1,8 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Resolved error of slider caption.
+
+Version 1.1.1
+i) Added skip to cotent button and used proper escape functions.

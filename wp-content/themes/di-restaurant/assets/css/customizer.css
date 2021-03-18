@@ -1,0 +1,54 @@
+.customize-partial-edit-shortcut button, .widget .customize-partial-edit-shortcut button {
+	left: -20px;
+	width: 20px;
+	height: 20px;
+	min-width: 20px;
+	min-height: 20px;
+	padding: 0px;
+}
+
+.customize-partial-edit-shortcut button svg {
+	min-width: 16px;
+	min-height: 16px;
+	width: 16px;
+	height: 16px;
+}
+
+.customize-partial-edit-shortcut.customize-partial-edit-shortcut-top_main_menu_hidden_field button {
+	top: 10px;
+	left: -10px;
+}
+
+.customize-partial-edit-shortcut.customize-partial-edit-shortcut-shop_icon_endis button {
+	top: 7px;
+}
+
+.customize-partial-edit-shortcut.customize-partial-edit-shortcut-sprofile_link_facebook button {
+	left: 6px;
+	top: 26px;
+}
+
+.customize-partial-edit-shortcut.customize-partial-edit-shortcut-header_image button {
+	left: 10px;
+	top: 200px;
+}
+
+.customize-partial-edit-shortcut.customize-partial-edit-shortcut-back_to_top button {
+	top: -15px;
+}
+
+@media (min-width: 768px) {
+	.customize-partial-edit-shortcut.customize-partial-edit-shortcut-left_footer_setting button {
+		left: 204px;
+		top: -18px;
+	}
+	.customize-partial-edit-shortcut.customize-partial-edit-shortcut-center_footer_setting button {
+		left: 92px;
+		top: -18px;
+	}
+	.customize-partial-edit-shortcut.customize-partial-edit-shortcut-right_footer_setting button {
+		left: -220px;
+		top: -18px;
+	}
+}
+

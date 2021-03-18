@@ -1,0 +1,51 @@
+.swicher_color{
+	width:47px;
+	height:47px;
+}
+#customize-control-theme_color input { 
+	display:none !important;
+}
+.color_active {
+	border: 1px solid #000 !important;
+    border-radius: 2px;
+}
+#customize-control-theme_color label{
+    display: inline-block;
+    line-height: 20px;
+    margin: 3px;
+    padding: 0;
+}
+
+
+/* Layout Manager Control */
+.businessacontentsort { 
+	list-style-type: none;
+	margin: 0;
+	padding: 0; 
+	min-height: 200px;
+	padding: 8px;
+	margin-bottom: 30px;
+}
+.busienss_customizer_layout {
+	background-color: #fdfdfd;
+}
+.businessacontentsort li {
+	margin: 4px;
+	padding: 5px;
+	width: 94%; 
+	background-color: #fff;
+	border: 1px solid #d8d8d8;
+	text-align: center;
+	box-shadow: 0px 0px 1px 0px #c1c1c1;
+	cursor: move;
+}
+.businessacontentsort li i{
+	font-family: dashicons;
+	font-style: normal;
+	float: right;
+	margin-right: 12px;
+}
+#customize-control-hotelone_option-layout_manager_data, 
+#customize-control-hotelone_option-lmdc{
+	display:none !important;
+}

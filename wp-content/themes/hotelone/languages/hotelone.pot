@@ -1,0 +1,1334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hotelone\n"
+"POT-Creation-Date: 2020-03-26 10:08+0530\n"
+"PO-Revision-Date: 2020-03-26 10:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\hotelone-lite\\wp-content\\themes"
+"\\hotelone\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\hotelone-lite\\wp-content\\themes"
+"\\hotelone\n"
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/404.php:7
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/template-tags.php:42
+msgid "404"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/404.php:8
+msgid "Oops! Page not found"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/404.php:9
+msgid "We`re sorry, but the page you are looking for doesn`t exist."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/404.php:10
+msgid "Home Page"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:23
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:54
+msgid "Britetechs Companion"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:56
+msgid ""
+"We highly recommend that you install the britetechs companion plugin to gain "
+"access to the team and testimonial sections."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:59
+msgid "Contact Form 7"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:61
+msgid ""
+"This is also recommended that you install the contact form plugin to show "
+"contact form on Contact Page contact section and Contact custom page "
+"template."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:203
+msgid "Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:232
+#, php-format
+msgid "FrontPage %s Top Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:242
+#, php-format
+msgid "FrontPage %s Bottom Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:254
+#, php-format
+msgid "Footer %s"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:297
+msgid "Install Required Plugins"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:298
+msgid "Install Plugins"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:299
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:300
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:313
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:314
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:315
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:316
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:317
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:318
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/functions.php:319
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/search.php:31
+#, php-format
+msgid "Search Results for: <span>%s</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/search.php:33
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-none.php:5
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/searchform.php:9
+msgid "Search for:"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/searchform.php:12
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/customizer.php:29
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/customizer-typography.php:670
+msgid "Typography"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/customizer-typography.php:673
+msgid "General Content"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/customizer-typography.php:683
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/customizer-typography.php:700
+msgid "Font Family"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/customizer-typography.php:684
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/customizer-typography.php:701
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/customizer-typography.php:719
+msgid "Choose your font family."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/customizer-typography.php:690
+msgid "Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/customizer-typography.php:708
+msgid "Heading"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/customizer-typography.php:718
+msgid "Headings Font Family"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/customizer-typography.php:729
+msgid "Go Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/customizer-typography.php:730
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/customizer.php:33
+msgid "Font Awesome"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/extra.php:74
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:188
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/section-all/section-blog.php:11
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-audio.php:41
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-audio.php:72
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-gallery.php:47
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-image.php:18
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-image.php:49
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-project.php:40
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-single.php:19
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-single.php:47
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-video.php:41
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-video.php:72
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content.php:18
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content.php:46
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/hotelone-customizer-controls.php:198
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/hotelone-customizer-controls.php:307
+msgid "Item"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/hotelone-customizer-controls.php:423
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/hotelone-customizer-controls.php:445
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/hotelone-customizer-controls.php:457
+msgid "Remove"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/hotelone-customizer-controls.php:424
+msgid "Add"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/hotelone-customizer-controls.php:424
+msgid "Change"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/hotelone-customizer-controls.php:459
+msgid "Close"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/hotelone-customizer-controls.php:497
+msgid "All"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/hotelone_navwalker.php:144
+msgid "Add a menu"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sanitize.php:240
+#, php-format
+msgid "Upgrade to %1s to unlock this feature."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/template-tags.php:38
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/template-tags.php:532
+msgid "Author Facebook URL"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/template-tags.php:533
+msgid "Author Twitter URL"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/template-tags.php:534
+msgid "Author Linkedin URL"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/template-tags.php:535
+msgid "Author Google Plus URL"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/template-tags.php:536
+msgid "Author Youtube URL"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:31
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome "
+"page</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:40
+#, php-format
+msgid ""
+"Save time by import our demo data, your website will be set up and ready to "
+"customize in minutes. %s"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:40
+msgid "Import Demo Data"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:82
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/install/class-install-helper.php:107
+msgid "Activating "
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:104
+#, php-format
+msgid "Hotelone %s"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:108
+msgid "Hotelone Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:112
+msgid "Hotelone Dashboard"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:155
+#, php-format
+msgid "Welcome to Hotelone - Version %1s"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:159
+msgid ""
+"Hotelone is a creative and flexible WordPress theme well suited for hotel "
+"owners, resturants and hostels. You can show your rooms features with this "
+"cool design WordPress theme."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:162
+msgid "Britetechs"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:168
+msgid "Hotelone"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:170
+msgid "Recommended Actions"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:172
+msgid "Free vs PRO"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:175
+msgid "One Click Demo Import"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:184
+msgid "Customizer Option Panel Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:185
+#, php-format
+msgid ""
+"%s supports the Theme Customizer option panel settings. Click on below "
+"customize button to customize your theme."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:187
+msgid "Customize Your Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:191
+msgid "Documentation"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:192
+#, php-format
+msgid ""
+"Need to setup your %s WordPress theme? Please click on bottom button  to "
+"find the theme documentation."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:194
+msgid "Hotelone Theme Documentation"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:199
+msgid "Need Support?"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:200
+#, php-format
+msgid ""
+"If you have more queries with %s WordPress theme. Please click below link to "
+"create a ticket"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:202
+msgid "Create a ticket"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:237
+msgid "Recommend Plugins"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:254
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:256
+msgid ""
+"In order to have the one page look for your website, please go to Customize -"
+"&gt; Static Front Page and switch \"Front page displays\" to \"A static page"
+"\"."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:259
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:283
+msgid "Setup front page displays"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:273
+msgid "Set your homepage page template to \"Frontpage\"."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:276
+msgid ""
+"In order to change homepage section contents, you will need to set template "
+"\"Frontpage\" for your homepage."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:290
+msgid "Change homepage page template"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:300
+#, php-format
+msgid "Keep %s updated"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:302
+msgid "Hey! There are no required actions found."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:484
+#, php-format
+msgid ""
+"<p>Congratulations! you installed importer plugin successfully. Click Here "
+"to start <a href=\"%s\">Import Data</a></p>"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:493
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:656
+msgid "Install Now"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:515
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:678
+msgid "Active Now"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:532
+#, php-format
+msgid "%1$s you will need to install and activate the %2$s plugin first."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:533
+msgid "Hey."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:534
+msgid "Theme Demo Importer"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/about-screen/welcome-screen.php:701
+msgid "Details"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/install/class-install-helper.php:51
+msgid "Install and activate"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/install/class-install-helper.php:71
+msgid "Activate"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-calltoaction.php:6
+msgid "Section: Call To Action"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-calltoaction.php:15
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:15
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:23
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:23
+msgid "Section Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-calltoaction.php:30
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:30
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:38
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:38
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:30
+msgid "Hide this section?"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-calltoaction.php:32
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:32
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:40
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:40
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:32
+msgid "Check this box to hide this section."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-calltoaction.php:44
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:44
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:52
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:52
+msgid "Section Title"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-calltoaction.php:58
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:58
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:66
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:66
+msgid "Section Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-calltoaction.php:67
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:173
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/section-all/section-slider.php:30
+msgid "Download Now"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-calltoaction.php:72
+msgid "Call To Action Button Text"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-calltoaction.php:86
+msgid "Call To Action Button URL"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-calltoaction.php:93
+msgid "Section Background"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-calltoaction.php:104
+msgid "Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-calltoaction.php:106
+msgid "Change the background color of this section."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-calltoaction.php:119
+msgid "Background image"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-calltoaction.php:121
+msgid "Upload the background image for this section."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:6
+msgid "Section: News"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:73
+msgid "News Layout Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:78
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:86
+msgid "4 Columns"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:79
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:86
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:87
+msgid "3 Columns"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:80
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:87
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:88
+msgid "2 Columns"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:81
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:88
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:89
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:695
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:725
+msgid "1 Column"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:89
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:96
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:97
+msgid "Section Content"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:103
+msgid "Number of post to show"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:120
+msgid "Category to show"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:136
+msgid "Order By"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:140
+msgid "Default"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:141
+msgid "ID"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:142
+msgid "Author"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:143
+msgid "Title"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:144
+msgid "Date"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:145
+msgid "Comment Count"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:146
+msgid "Order by Page Order"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:147
+msgid "Random order"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:162
+msgid "Order"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:166
+msgid "Descending"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:167
+msgid "Ascending"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:180
+msgid "More News button link"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:182
+msgid "It should be your blog page link."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-news.php:193
+msgid "More News Button Text"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:6
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:6
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:16
+msgid "Select page"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:14
+msgid "Section: Room"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:81
+msgid "Room Layout Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:115
+msgid "Hotel Rooms"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:119
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:120
+msgid "[live_title]"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:121
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:122
+msgid ""
+"Upgrade to <a target=\"_blank\" href=\"https://www.britetechs.com/free-"
+"hotelone-wordpress-theme/\">Hotelone Pro</a> to be able to add more items "
+"and unlock other premium features!"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:124
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:144
+msgid "Select a page"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:129
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:132
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:122
+msgid "Rating"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:141
+msgid "Persons"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:144
+msgid "Person"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:152
+msgid "Price"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-room.php:156
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:149
+msgid "Link to single page"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:14
+msgid "Section: Services"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:61
+msgid ""
+"Lorem ipsum dolor sit ame sed do eiusmod tempor incididunt ut labore et "
+"dolore"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:81
+msgid "Services Layout Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:116
+msgid "Service content"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:125
+msgid "Custom icon"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:128
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:133
+msgid "Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:129
+msgid "image"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:138
+msgid "Image"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:167
+msgid "Icon Size"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:172
+msgid "5x"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:173
+msgid "4x"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:174
+msgid "3x"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:175
+msgid "2x"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:176
+msgid "1x"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:184
+msgid "View More Services <i class=\"fa fa-angle-double-right\"></i>"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:189
+msgid "Services More Button Text"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-service.php:203
+msgid "Services More Button URL"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:7
+msgid "Section: Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:15
+msgid "Slider Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:39
+msgid "Slider Background Images"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:65
+msgid "Background Images"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:69
+msgid "Background"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:73
+msgid "Background Image"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:90
+msgid "Slider Content"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:106
+msgid "Disable slider rating?"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:108
+msgid "Check this settings to disable slider ratings."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:123
+msgid "Slider Rating, Select this setting to show ratings on this slide."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:140
+msgid "Welcome to Hotelone Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:147
+msgid "Large Text"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:149
+msgid "Add your big section title in this setting."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:163
+msgid "Small Text"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:166
+msgid "You can use text rotate slider in this textarea too."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:178
+msgid "Primary Button Text"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:191
+msgid "Primary Button Link"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:199
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/section-all/section-slider.php:32
+msgid "View Demo"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:204
+msgid "Secondary Button Text"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-slider.php:217
+msgid "Secondary Button Link"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:23
+msgid "Recommended Plugin"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:34
+msgid "Instructions"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:46
+msgid "Theme Options"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:53
+msgid "Global"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:69
+msgid "Site Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:70
+msgid ""
+"Site Layout, Select this setting for all pages, exclude home page and custom "
+"page templates."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:73
+msgid "Right sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:74
+msgid "Left sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:75
+msgid "No sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:89
+msgid "Disable animation effect?"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:91
+msgid "Check this settings to disable all element animation when scroll."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:106
+msgid "Hide footer back to top?"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:108
+msgid "Check this setting to hide footer back to top button."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:122
+msgid "Disable Google Fonts"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:124
+msgid ""
+"Check this setting if you want to disable default google fonts in theme."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:131
+msgid "Header: Top Bar"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:146
+msgid "Disable Header Top Bar?"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:148
+msgid "Check this box if you want to disable header top bar."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:161
+msgid "Facebook URL"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:163
+msgid "Your facebook page link url here."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:176
+msgid "Twitter URL"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:178
+msgid "Your twitter page link url here."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:191
+msgid "Google Plus URL"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:193
+msgid "Your Google Plus page link url here."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:207
+msgid "Houzz URL"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:209
+msgid "Your Houzz link url here."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:223
+msgid "Social Icons Open In New Tab"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:225
+msgid "Check this box if you want to open new tab for social icons."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:239
+msgid "Phone:"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:241
+msgid "Your phone number"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:255
+msgid "Phone Custom URL:"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:257
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:289
+msgid "Enter custom url link."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:271
+msgid "Email:"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:273
+msgid "Your email id"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:287
+msgid "Email Custom URL:"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:296
+msgid "Header"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:313
+msgid "Header Width"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:316
+msgid "Full Width"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:317
+msgid "Contained"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:333
+msgid "Header Position"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:336
+msgid "Top"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:337
+msgid "Below Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:352
+msgid "Disable Sticky Header?"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:354
+msgid "Check this box to disable sticky header when scroll."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:367
+msgid "Center vertical align for menu"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:369
+msgid ""
+"If you use logo and your logo is too tall, check this box to auto vertical "
+"align menu."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:383
+msgid ""
+"Scroll to top when click to the site logo or site title, only apply on front "
+"page."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:391
+msgid "Navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:406
+msgid "Menu Item Padding"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:407
+msgid "Padding left and right for Navigation items (pixels)."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:414
+msgid "Page Title Area"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:429
+msgid "Disable Page Title bar?"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:431
+msgid "Check this box to disable the page title bar on all pages."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:444
+msgid "Padding Top"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:445
+msgid "The page cover padding top in percent (%)."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:459
+msgid "Padding Bottom"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:460
+msgid "The page cover padding bottom in percent (%)."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:476
+msgid "Color"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:493
+msgid "Background Overlay Color"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:508
+msgid "Content Align"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:512
+msgid "Center"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:513
+msgid "Left"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:514
+msgid "Right"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:522
+msgid "Single Post"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:537
+msgid "Show single post thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:539
+msgid "Check this box to show post thumbnail on single post."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:552
+msgid "Show single post meta"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:554
+msgid ""
+"Check this box to show single post meta such as post date, author, "
+"category,..."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:560
+msgid "Footer Widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:577
+msgid "Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:580
+msgid "Number footer columns to display."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:586
+msgid "Disable footer widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:610
+msgid "Custom footer 1 column width"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:610
+#, php-format
+msgid "Custom footer %s columns width"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:612
+msgid ""
+"Enter int numbers and sum of them must smaller or equal 12, separated by \"+"
+"\""
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:620
+msgid "Footer Copyright"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:637
+msgid "Copyright Text"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:639
+msgid "Your Copyright Text Here."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:652
+msgid "Front Page Sidebars"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:675
+#, php-format
+msgid "%s Sidebar Top Column"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:691
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:721
+msgid "Column Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:692
+#, php-format
+msgid "Select column layour for %s top siderbar."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:696
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:726
+msgid "2 Column"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:697
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:727
+msgid "3 Column"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:698
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:728
+msgid "4 Column"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:705
+#, php-format
+msgid "%s Sidebar Bottom Column"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-theme-option.php:722
+#, php-format
+msgid "Select column layour for %s bottom siderbar."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-bcompanion-info/class-bc-info.php:17
+#, php-format
+msgid ""
+"Now you should be able to see the team and testimonial sections on your "
+"front-page. You can configure settings from %s, in your customize option "
+"panel."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-bcompanion-info/class-bc-info.php:18
+msgid "Dashboard > Apprearance >> Customize"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-bcompanion-info/class-bc-info.php:22
+#, php-format
+msgid ""
+"To access team and testimonial sections in front page, you need to install "
+"and activate the %s plugin."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-contactform-info/class-contactform-info.php:15
+#, php-format
+msgid ""
+"You should be able to see the contact form in contact section on your front-"
+"page. You can configure settings from %s, in your WordPress dashboard."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-contactform-info/class-contactform-info.php:16
+msgid "Contact > Add New"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/inc/sections/customizer-contactform-info/class-contactform-info.php:20
+#, php-format
+msgid ""
+"To access contact form in contact section in front page, you need to install "
+"the %s plugin."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/section-all/section-blog.php:98
+msgid "Posted by:"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/section-all/section-navigation.php:37
+msgid "Toggle navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/section-all/section-room.php:137
+msgid "Book Now"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/section-all/section-slider.php:112
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-room.php:40
+msgid "Previous"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/section-all/section-slider.php:116
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-room.php:44
+msgid "Next"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/page/content-page.php:37
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-audio.php:77
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-gallery.php:52
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-image.php:54
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-project.php:45
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-single.php:52
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-video.php:77
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content.php:51
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-audio.php:88
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-excerpt.php:36
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-gallery.php:63
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-image.php:64
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-single.php:62
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-video.php:87
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content.php:60
+msgid "Posted by :"
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-audio.php:96
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-excerpt.php:44
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-gallery.php:71
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-image.php:72
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-single.php:70
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-video.php:95
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content.php:68
+msgid ", "
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-none.php:11
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\hotelone-lite\wp-content\themes\hotelone/template-parts/post/content-none.php:15
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""

@@ -1,0 +1,41 @@
+<?php
+/**
+ * The Template for Approved Booking Email (via payment)
+ *
+ * Email that will be sent to Admin when payment is completed.
+ *
+ * @version 2.0.0
+ */
+// Exit if accessed directly
+if ( !defined( 'ABSPATH' ) ) {
+	exit;
+}
+?>
+
+<?php printf( __( 'Booking #%s is confirmed by payment.', 'motopress-hotel-booking' ), '%booking_id%' ); ?>
+<br/><br/><a href="%booking_edit_link%"><?php _e( 'View Booking', 'motopress-hotel-booking' ); ?></a>
+<h4><?php _e( 'Details of payment', 'motopress-hotel-booking' ) ?></h4>
+<?php printf( __( 'Payment ID: #%s', 'motopress-hotel-booking' ), '%payment_id%' ); ?>
+<br/>
+<?php printf( __( 'Amount: %s', 'motopress-hotel-booking' ), '%payment_amount%' ); ?>
+<br/>
+<?php printf( __( 'Method: %s', 'motopress-hotel-booking' ), '%payment_method%' ); ?>
+<br/>
+<h4><?php _e( 'Details of booking', 'motopress-hotel-booking' ) ?></h4>
+<?php printf( __( 'Check-in: %1$s, from %2$s', 'motopress-hotel-booking' ), '%check_in_date%', '%check_in_time%' ); ?>
+<br/>
+<?php printf( __( 'Check-out: %1$s, until %2$s', 'motopress-hotel-booking' ), '%check_out_date%', '%check_out_time%' ); ?>
+<br/>
+%reserved_rooms_details%
+<h4><?php _e( 'Customer Info', 'motopress-hotel-booking' ); ?></h4>
+<?php printf( __( 'Name: %1$s %2$s', 'motopress-hotel-booking' ), '%customer_first_name%', '%customer_last_name%' ); ?>
+<br/>
+<?php printf( __( 'Email: %s', 'motopress-hotel-booking' ), '%customer_email%' ); ?>
+<br/>
+<?php printf( __( 'Phone: %s', 'motopress-hotel-booking' ), '%customer_phone%' ); ?>
+<br/>
+<?php printf( __( 'Note: %s', 'motopress-hotel-booking' ), '%customer_note%' ); ?>
+<br/>
+<h4><?php _e( 'Total Price:', 'motopress-hotel-booking' ) ?></h4>
+%booking_total_price%
+<br/>
